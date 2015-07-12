@@ -8,3 +8,13 @@ ORM
 Android最佳实践  
 ----  
 * [https://github.com/futurice/android-best-practices/blob/master/translations/Chinese/README.cn.md](https://github.com/futurice/android-best-practices/blob/master/translations/Chinese/README.cn.md)
+
+反编译工具
+----
+* [https://github.com/google/enjarify](https://github.com/google/enjarify)
+* [https://github.com/java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui)
+
+图片库
+----
+* [https://github.com/facebook/fresco](https://github.com/facebook/fresco)
+* [https://github.com/nostra13/Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
