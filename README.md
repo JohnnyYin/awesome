@@ -18,3 +18,7 @@ Android最佳实践
 ----
 * [https://github.com/facebook/fresco](https://github.com/facebook/fresco)
 * [https://github.com/nostra13/Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
+
+统计dex方法数
+----
+* [https://github.com/mihaip/dex-method-counts](https://github.com/mihaip/dex-method-counts)
