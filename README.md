@@ -22,3 +22,8 @@ Android最佳实践
 统计dex方法数
 ----
 * [https://github.com/mihaip/dex-method-counts](https://github.com/mihaip/dex-method-counts)
+
+EventBus
+----
+* [https://github.com/square/otto](https://github.com/square/otto)
+* [https://github.com/greenrobot/EventBus](https://github.com/greenrobot/EventBus)
