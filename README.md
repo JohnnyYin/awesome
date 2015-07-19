@@ -37,3 +37,7 @@ Guava工程包含了若干被Google的 Java项目广泛依赖 的核心库，例
 ----
 * [https://github.com/junegunn/fzf](https://github.com/junegunn/fzf)
 * [https://github.com/hugows/hf](https://github.com/hugows/hf)
+
+Gradle Android插件用户指南
+----
+* [https://github.com/AvatarQing/Gradle-Plugin-User-Guide-Chinese-Verision](https://github.com/AvatarQing/Gradle-Plugin-User-Guide-Chinese-Verision)
