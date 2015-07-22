@@ -44,4 +44,6 @@ Gradle Android插件用户指南
 
 RecyclerView相关
 ----
+* [https://github.com/cymcsg/UltimateRecyclerView](https://github.com/cymcsg/UltimateRecyclerView)
+* [https://github.com/kanytu/android-parallax-recyclerview](https://github.com/kanytu/android-parallax-recyclerview)
 * [https://github.com/truizlop/SectionedRecyclerView](https://github.com/truizlop/SectionedRecyclerView)
