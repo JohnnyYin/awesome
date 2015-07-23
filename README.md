@@ -47,3 +47,4 @@ RecyclerView相关
 * [https://github.com/cymcsg/UltimateRecyclerView](https://github.com/cymcsg/UltimateRecyclerView)
 * [https://github.com/kanytu/android-parallax-recyclerview](https://github.com/kanytu/android-parallax-recyclerview)
 * [https://github.com/truizlop/SectionedRecyclerView](https://github.com/truizlop/SectionedRecyclerView)
+* [https://github.com/iPaulPro/Android-ItemTouchHelper-Demo](https://github.com/iPaulPro/Android-ItemTouchHelper-Demo)
